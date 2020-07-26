@@ -6,6 +6,8 @@ from templates.codechef import *
 
 W_DIR = '../_solutions/Codechef'
 
+# Hello world!
+
 createdFileNames = []
 contestCode = ''
 contestName = ''
